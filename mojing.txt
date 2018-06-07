@@ -5,4 +5,4 @@
 2.修复直播不能全屏.
 3.修复不能在线检测更新.
 【内容】
-【链接】http://mojing.mjvideo.site/mojing.apk【链接】
+【链接】http://mojing.mjvideo.site/mojing_1.1.0.apk【链接】
